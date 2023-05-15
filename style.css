@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+}
+.font {
+    font-size: 20px;
+}
+.bg {
+    background-color: lightgray;
+}
+.wd {
+    width: 400px;
+    height: auto;
+}
